@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tbrtesttask/blocs/database_bloc/database_bloc.dart';
-import 'package:tbrtesttask/helpers/phone_number_helper.dart';
+import 'package:tbrtesttask/utils/helpers/phone_number_helper.dart';
 import 'package:tbrtesttask/pages/main_page/widgets/dialog_widget.dart';
 
 class CustomCountryCodePicker extends StatefulWidget {

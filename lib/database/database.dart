@@ -1,6 +1,6 @@
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
-import 'package:tbrtesttask/initial_values/initial_values.dart';
+import 'package:tbrtesttask/utils/initial_values/initial_values.dart';
 
 class DatabaseProvider {
   Database? _database;
