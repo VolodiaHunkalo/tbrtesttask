@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:tbrtesttask/pages/main_page.dart';
+import 'package:tbrtesttask/pages/main_page/main_page.dart';
 import 'package:tbrtesttask/repositories/database_repository.dart';
 
 import 'blocs/database_bloc/database_bloc.dart';
